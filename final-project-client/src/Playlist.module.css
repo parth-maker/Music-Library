@@ -1,0 +1,40 @@
+.Table1 {
+    margin: 50px;
+    background-color: gray;
+    color: black;
+    font-weight: bold;
+    border: black solid;
+    width: 93%;
+}
+
+.Input1 {
+    border: none;
+    background-color: pink;
+}
+
+.InputUri {
+    width: 500px;
+    border: none;
+    background-color: pink;
+}
+
+.Label1 {
+    border: solid purple;
+    padding: 3px;
+    background-color: purple;
+    color: pink;
+}
+
+.Btn1 {
+    background-color: black;
+    color: white;
+    padding: 10px;
+    margin-left: 5px;
+}
+
+.Btn2 {
+    background-color: grey;
+    color: black;
+    padding: 10px;
+    margin-left: 5px;
+}

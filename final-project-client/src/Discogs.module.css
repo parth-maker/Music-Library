@@ -1,0 +1,20 @@
+.Div1 {
+    margin-left: 500px;
+}
+
+.Table1 {
+    margin: 25px;
+    background-color: gray;
+    border: solid;
+    width: 95%;
+}
+
+.Thead1 {
+    background-color: black;
+    color: wheat;
+}
+
+.Btn1 {
+    background-color: darkslategray;
+    color: white;
+}
